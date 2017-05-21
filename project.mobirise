@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "paintings2016.html",
+    "currentPage": "sculptures2016.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2412,10 +2412,10 @@
               },
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "image": "@PROJECT_PATH@/assets/images/detailkleiweb-2000x1600.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
