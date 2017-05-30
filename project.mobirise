@@ -27,7 +27,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/p21web-1.gif",
     "noImageResize": "",
     "cookiesAlert": "Surprise! I use cookies. For details, go to: https://ilonarijkeboer.github.io/nl/cookiepolicy.html",
-    "google-analytics": "UA-88021608-1"
+    "google-analytics": ""
   },
   "pages": {
     "copyright.html": {
