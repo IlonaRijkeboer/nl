@@ -570,10 +570,15 @@ h6,
   color: #475577;
 }
 
-
-#features6-1m .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2m .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2m .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2m H4 {
+  color: #000000;
 }
 #social-buttons1-1o .mbr-section-title {
   font-size: 19px;
@@ -730,7 +735,16 @@ h6,
   color: #475577;
 }
 
-
+#features4-2l .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2l .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2l H4 {
+  color: #000000;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -798,10 +812,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #000000;
-}
-#features6-1b .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
 }
 #social-buttons1-1a .mbr-section-title {
   font-size: 19px;
@@ -890,10 +900,15 @@ h6,
   color: #475577;
 }
 
-
-#features6-1r .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2k .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2k .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2k H4 {
+  color: #000000;
 }
 #social-buttons1-1t .mbr-section-title {
   font-size: 19px;
@@ -1050,10 +1065,15 @@ h6,
   color: #475577;
 }
 
-
-#features6-1w .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2j .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2j .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2j H4 {
+  color: #000000;
 }
 #social-buttons1-1y .mbr-section-title {
   font-size: 19px;
@@ -1617,10 +1637,15 @@ h6,
   color: #475577;
 }
 
-
-#features6-21 .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2h .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2h .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2h H4 {
+  color: #000000;
 }
 #menu-22 .hide-buttons .nav-btn {
   display: none !important;
