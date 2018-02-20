@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "Drawings2017.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -12,7 +12,7 @@
         "infoColor": "#cccccc",
         "warningColor": "#a38f84",
         "dangerColor": "#f28281",
-        "titleFont": "Unica One",
+        "titleFont": "Anaheim",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
@@ -72,18 +72,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -98,7 +98,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -118,7 +118,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -167,6 +167,13 @@
             },
             "SPAN": {
               "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Anaheim', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400"
             }
           },
           "_tags": [
@@ -753,18 +760,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -779,7 +786,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -799,7 +806,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -1040,18 +1047,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1066,7 +1073,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1086,7 +1093,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -3684,7 +3691,9 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "19px"
+              "font-size": "19px",
+              "font-family": "'Anaheim', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400"
             }
           },
           "_anchor": "social-buttons1-d",
@@ -3705,7 +3714,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -3716,18 +3725,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3742,7 +3751,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3762,7 +3771,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
