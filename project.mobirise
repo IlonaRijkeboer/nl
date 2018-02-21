@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -409,7 +409,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -420,18 +420,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -446,7 +446,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -466,7 +466,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -749,7 +749,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -1163,7 +1163,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_tags": [
@@ -1340,18 +1340,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1366,7 +1366,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1386,7 +1386,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -1657,7 +1657,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_tags": [
@@ -1903,7 +1903,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -1914,18 +1914,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1940,7 +1940,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1960,7 +1960,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -2341,7 +2341,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -2352,18 +2352,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2378,7 +2378,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2398,7 +2398,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -2684,7 +2684,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -2695,18 +2695,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2721,7 +2721,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2741,7 +2741,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -3010,7 +3010,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -3021,18 +3021,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3047,7 +3047,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3067,7 +3067,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -3175,6 +3175,11 @@
             },
             "P": {
               "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -3183,7 +3188,7 @@
           "_name": "content5",
           "_anchor": "content5-b",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showCaption": true,
             "paddingTop": "5",
             "paddingBottom": "5",
@@ -3200,8 +3205,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "ABOUT",
-          "caption": "<p>Hi, I'm Ilona. I'm currently living in Ghent, where I study fine arts at LUCA school of arts.&nbsp;</p>"
+          "title": "Hi, I'm Ilona. I'm making things. The past three years I've been doing this in Ghent, Belgium, at LUCA School of Arts and in Edinburgh, Scotland, at ECA. There are pictures of my work on this website, but there is much more. Interested? Contact me. You can find a contact form if you click on the button CONTACT above. Not interested? There's an x in the right upper corner which makes me dissappear. &nbsp;",
+          "caption": ""
         },
         {
           "_tags": [
@@ -3231,7 +3236,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -3242,18 +3247,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3268,7 +3273,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3288,7 +3293,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -3390,7 +3395,7 @@
           "title": "CONTACT ME",
           "subtitle": "Questions, critics, suggestions, stories: feel free to share!",
           "form": {
-            "action": "r0633916@student.luca-arts.be",
+            "action": "ilonarijkeboer.art@gmail.com",
             "alerts": {
               "success": "Thank you for your interest, I'll try to reply as soon as possible."
             },
@@ -3447,7 +3452,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_styles": {
@@ -3458,18 +3463,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3484,7 +3489,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3504,7 +3509,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -3877,18 +3882,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3903,7 +3908,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3923,7 +3928,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -4127,18 +4132,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4153,7 +4158,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4173,7 +4178,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -4304,7 +4309,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_tags": [
@@ -4481,18 +4486,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "font-family": "'Anaheim', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "2.328rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4507,7 +4512,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4527,7 +4532,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             }
           },
           "_tags": [
@@ -4742,7 +4747,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share Ilona with the world!"
+          "text": "Share this page!"
         },
         {
           "_tags": [
