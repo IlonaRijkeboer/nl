@@ -498,10 +498,12 @@ h6,
   font-family: 'Anaheim', sans-serif;
 }
 
-
-#features6-14 .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2r .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2r .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #social-buttons1-13 .mbr-section-title {
   font-size: 19px;
@@ -663,10 +665,12 @@ h6,
   color: #475577;
 }
 
-
-#features6-u .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2s .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2s .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -828,10 +832,12 @@ h6,
   color: #475577;
 }
 
-
-#features6-15 .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2t .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #social-buttons1-16 .mbr-section-title {
   font-size: 19px;
@@ -908,14 +914,14 @@ h6,
   color: #475577;
 }
 
-#features4-2k .card-subtitle {
+#features4-2u .card-subtitle {
   color: #bcbcbc;
 }
-#features4-2k .iconbox {
+#features4-2u .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-2k H4 {
+#features4-2u H4 {
   color: #000000;
 }
 #social-buttons1-1t .mbr-section-title {
@@ -993,10 +999,15 @@ h6,
   color: #475577;
 }
 
-
-#features6-18 .btn {
-  font-family: 'Lora', serif;
-  font-size: 15px;
+#features4-2v .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2v .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2v H4 {
+  color: #000000;
 }
 #social-buttons1-19 .mbr-section-title {
   font-size: 19px;
