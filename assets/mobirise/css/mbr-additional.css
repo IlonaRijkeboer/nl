@@ -683,7 +683,7 @@ h6,
 }
 #header3-37 .mbr-section-title {
   font-size: 20px;
-  text-align: left;
+  text-align: center;
   color: #494259;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -770,6 +770,10 @@ h6,
 }
 #features4-3c H4 {
   color: #494259;
+  text-align: left;
+}
+#features4-3c P {
+  text-align: left;
 }
 #header3-3d .mbr-section-title,
 #header3-3d .mbr-section-subtitle {
@@ -777,7 +781,7 @@ h6,
 }
 #header3-3d .mbr-section-title {
   font-size: 20px;
-  text-align: left;
+  text-align: center;
   color: #494259;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -1544,7 +1548,7 @@ h6,
 #header1-1 .mbr-section-title {
   text-align: left;
   font-family: 'Anaheim', sans-serif;
-  font-size: 84px;
+  font-size: 80px;
   color: #494259;
 }
 #footer1-2 P {
@@ -1606,7 +1610,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #494259!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
