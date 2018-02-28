@@ -30,7 +30,7 @@
     "versionPublish": "4.6.5",
     "favicon": "@PROJECT_PATH@/assets/images/p21web-1.gif",
     "noImageResize": "true",
-    "cookiesAlert": "Surprise! I use cookies. For details, go to: https://ilonarijkeboer.github.io/nl/cookiepolicy.html <a href='cookiepolicy.html'>cookie policy</a>.",
+    "cookiesAlert": "Surprise! I use cookies. For details, click on: <a href='cookiepolicy.html'>cookie policy</a>.",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
