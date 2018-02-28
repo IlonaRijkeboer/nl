@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "works.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -3413,40 +3413,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20171014-132958-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#453f3f",
-            "overlayOpacity": "0.3"
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-36"
-        },
-        {
           "_inherit": "features4",
           "_params": {
             "showImages": false,
@@ -3455,8 +3421,8 @@
             "ShowTexts": false,
             "showButtons": false,
             "iconsBgColor": "#000000",
-            "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20171014-132959-2000x1500.jpg",
@@ -3549,13 +3515,15 @@
               "border-color": "#000000"
             },
             "H4": {
-              "font-size": "46px"
+              "font-size": "36px",
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
-          "title1": "<a href=\"Sketchbook2017.html\" class=\"text-primary\">Sketchbook</a>",
+          "title1": "<a href=\"Sketchbook2017.html\" class=\"text-primary\"><br></a><br><a href=\"Sketchbook2017.html\" class=\"text-primary\">SKETCHBOOK</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"Drawings2017.html\" class=\"text-primary\">Drawings/Paintings/Sculptures</a>",
+          "title2": "<a href=\"Drawings2017.html\" class=\"text-primary\"><br></a><br><a href=\"Drawings2017.html\" class=\"text-primary\">DRAWINGS/PAINTINGS/SCULPTURES</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
@@ -3580,6 +3548,40 @@
           "_anchor": "features7-35"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20171014-132958-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#453f3f",
+            "overlayOpacity": "0.3"
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-36"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3593,7 +3595,7 @@
           },
           "_anchor": "social-buttons1-d",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

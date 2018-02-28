@@ -1343,10 +1343,6 @@ h6,
 }
 
 
-#msg-box8-36 .mbr-section-title,
-#msg-box8-36 p {
-  color: #fff;
-}
 #features7-35 .card-subtitle {
   color: #bcbcbc;
 }
@@ -1355,7 +1351,13 @@ h6,
   border-color: #000000;
 }
 #features7-35 H4 {
-  font-size: 46px;
+  font-size: 36px;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-36 .mbr-section-title,
+#msg-box8-36 p {
+  color: #fff;
 }
 #social-buttons1-d .mbr-section-title {
   font-size: 19px;
