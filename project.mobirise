@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Drawings2017.html",
+    "currentPage": "index.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -29,11 +29,14 @@
     "uniqCompNum": 131,
     "versionPublish": "4.6.5",
     "favicon": "@PROJECT_PATH@/assets/images/p21web-1.gif",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "Surprise! I use cookies. For details, go to: https://ilonarijkeboer.github.io/nl/cookiepolicy.html",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "undefined"
   },
   "pages": {
     "copyright.html": {
@@ -3679,7 +3682,7 @@
       "settings": {
         "main": true,
         "title": "home",
-        "meta_descr": "home page",
+        "meta_descr": "home page\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
