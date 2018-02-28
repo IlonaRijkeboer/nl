@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "works.html",
+    "currentPage": "inbetween2017.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#494259",
         "secondaryColor": "#bfcecb",
         "successColor": "#7c706b",
         "infoColor": "#cccccc",
@@ -22,11 +22,13 @@
       },
       "additionalSetColors": [
         "#dbe1e6",
-        "#453f3f"
+        "#453f3f",
+        "#494259",
+        "#232323"
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 134,
+    "uniqCompNum": 141,
     "versionPublish": "4.6.5",
     "favicon": "@PROJECT_PATH@/assets/images/p21web-1.gif",
     "noImageResize": "true",
@@ -77,10 +79,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -103,7 +105,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -123,7 +125,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -145,7 +147,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -178,7 +180,8 @@
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Anaheim', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400"
+              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
+              "color": "#494259"
             }
           },
           "_tags": [
@@ -206,193 +209,27 @@
       "components": [
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "text-align": "center"
             }
           },
           "_params": {
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#fff"
           },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "<a href=\"Sketchbook2016.html\" class=\"text-black\">2016</a>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"Sketchbook2017.html\" class=\"text-black\">2017</a>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "<br><a href=\"Sketchbook2017.html\" class=\"text-primary\">SKETCHBOOK</a><br><a href=\"Sketchbook2016.html\" class=\"text-primary\">2016</a> / <a href=\"Sketchbook2017.html\" class=\"text-primary\">2017</a>",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-2r"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": false,
-            "fullScreen": false,
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": false,
-                "videoUrl": "",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "_anchor": "slider3-r",
-          "articleLayout": false
+          "_name": "header3",
+          "_anchor": "header3-3w"
         },
         {
           "_tags": [
@@ -433,10 +270,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -459,7 +296,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -469,7 +306,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -479,7 +316,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -501,7 +338,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -773,10 +610,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -799,7 +636,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -809,7 +646,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -819,7 +656,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -841,7 +678,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -903,6 +740,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -994,16 +834,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -1031,7 +871,8 @@
             },
             ".mbr-section-title": {
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#494259"
             }
           },
           "_params": {
@@ -1040,7 +881,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "2017<br><a href=\"Drawings2017.html#gallery2-2w\" class=\"text-black\">Figure</a> / <a href=\"DrawingObjects2017.html\" class=\"text-black\">Object</a>",
+          "title": "2017<br><a href=\"Drawings2017.html#gallery2-2w\" class=\"text-primary\">Figure</a> / <a href=\"DrawingObjects2017.html\" class=\"text-primary\">Object</a>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1161,10 +1002,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -1187,7 +1028,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1197,7 +1038,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1207,7 +1048,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -1229,7 +1070,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1321,6 +1162,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -1412,16 +1256,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -1449,7 +1293,8 @@
             },
             ".mbr-section-title": {
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#494259"
             }
           },
           "_params": {
@@ -1458,13 +1303,117 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "2016<br><a href=\"DrawingFigure2017.html\" class=\"text-black\">Figure</a> / <a href=\"DrawingObjects2017.html\" class=\"text-black\">Object</a>",
+          "title": "2016<br><a href=\"DrawingFigure2017.html\" class=\"text-primary\">Figure</a> / <a href=\"DrawingObjects2017.html\" class=\"text-primary\">Object</a>",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-3d"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-3q"
         },
         {
           "_styles": {
@@ -1475,10 +1424,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -1501,7 +1450,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1511,7 +1460,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1521,7 +1470,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -1543,7 +1492,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1635,6 +1584,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -1726,16 +1678,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-primary\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-primary\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -1899,10 +1851,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -1925,7 +1877,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1935,7 +1887,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1945,7 +1897,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -1967,7 +1919,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2029,6 +1981,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -2120,16 +2075,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-primary\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-primary\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -2293,10 +2248,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -2319,7 +2274,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2329,7 +2284,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2339,7 +2294,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -2361,7 +2316,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2423,6 +2378,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -2514,16 +2472,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-primary\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-primary\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -2543,6 +2501,110 @@
           ],
           "_name": "features4",
           "_anchor": "features4-3k"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-3r"
         },
         {
           "_tags": [
@@ -2583,10 +2645,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -2609,7 +2671,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2619,7 +2681,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2629,7 +2691,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -2651,7 +2713,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2713,6 +2775,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -2804,16 +2869,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-primary\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-primary\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -2833,6 +2898,110 @@
           ],
           "_name": "features4",
           "_anchor": "features4-3l"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-3s"
         },
         {
           "_tags": [
@@ -2873,10 +3042,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -2899,7 +3068,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2909,7 +3078,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2919,7 +3088,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -2941,7 +3110,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3167,7 +3336,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3383,7 +3552,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3434,8 +3603,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#453f3f",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#dbe1e6",
+            "overlayOpacity": "0.4"
           },
           "media1": {
             "iconFont": {
@@ -3569,8 +3738,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#453f3f",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#dbe1e6",
+            "overlayOpacity": "0.2"
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -3622,10 +3791,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -3648,7 +3817,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3658,7 +3827,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -3668,7 +3837,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -3690,7 +3859,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3775,10 +3944,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -3801,7 +3970,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3821,7 +3990,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -3843,7 +4012,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3870,6 +4039,9 @@
             },
             "SPAN": {
               "font-size": "32px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#494259"
             }
           },
           "_tags": [
@@ -3908,7 +4080,7 @@
               "font-family": "'Anaheim', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-size": "84px",
-              "color": "#efefef"
+              "color": "#494259"
             }
           },
           "_anchor": "header1-1",
@@ -3966,10 +4138,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -3992,7 +4164,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4012,7 +4184,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -4034,7 +4206,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4106,10 +4278,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -4132,7 +4304,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4142,7 +4314,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -4152,7 +4324,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -4173,7 +4345,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4227,6 +4399,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#494259"
             }
           },
           "_params": {
@@ -4318,16 +4493,16 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"Drawings2017.html\" class=\"text-black\">Drawings</a>",
+          "title1": "<a href=\"Drawings2017.html\" class=\"text-primary\">D</a>RAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
-          "title2": "<a href=\"Paintings2017.html\" class=\"text-black\">Paintings</a>",
+          "title2": "<a href=\"Paintings2017.html\" class=\"text-primary\">P</a>AINTINGS",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
-          "title3": "<a href=\"Sculptures2017.html\" class=\"text-black\">Sculptures</a>",
+          "title3": "<a href=\"Sculptures2017.html\" class=\"text-primary\">S</a>CULPTURES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
-          "title4": "<a href=\"inbetween2017.html\" class=\"text-black\">Inbetween</a>",
+          "title4": "<a href=\"inbetween2017.html\" class=\"text-primary\">I</a>NBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
           "title5": "Trendy Website Blocks",
@@ -4347,6 +4522,110 @@
           ],
           "_name": "features4",
           "_anchor": "features4-3m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-3t"
         },
         {
           "_params": {
@@ -4396,10 +4675,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -4422,7 +4701,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4432,7 +4711,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -4442,7 +4721,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -4463,7 +4742,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4527,10 +4806,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -4553,7 +4832,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4563,7 +4842,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -4573,7 +4852,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -4594,7 +4873,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4658,10 +4937,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#494259"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#494259",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "font-family": "'Anaheim', sans-serif"
             },
@@ -4684,7 +4963,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#494259",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4694,7 +4973,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#494259!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -4704,7 +4983,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#494259"
             }
           },
           "_tags": [
@@ -4725,7 +5004,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4856,7 +5135,7 @@
               "url": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "css": "'Anaheim', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#494259",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
