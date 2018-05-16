@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "inbetween2017.html",
+    "currentPage": "Inbetween2018.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 155,
+    "uniqCompNum": 162,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/niueww2.jpg",
     "noImageResize": "true",
@@ -188,6 +188,12 @@
             "SMALL": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "32px",
+              "color": "#303134"
             }
           },
           "_tags": [
@@ -201,7 +207,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">Copyright status</span>",
+          "title": "Copyright status",
           "meta": "Copyright © 2017 by Ilona Rijkeboer<br><br>All rights reserved. No images on this website may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the publisher, except in the case of noncommercial or educational uses permitted by copyright law. For permission requests, please contact the artist through the contact form on this website."
         }
       ]
@@ -956,7 +962,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / 2018",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1277,7 +1283,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-43",
+          "_anchor": "features4-4c",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -1314,7 +1320,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1359,7 +1365,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1687,7 +1693,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-3z",
+          "_anchor": "features4-4d",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -1724,7 +1730,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1769,7 +1775,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -2090,7 +2096,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-40",
+          "_anchor": "features4-4e",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -2127,7 +2133,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2172,7 +2178,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -2493,7 +2499,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-41",
+          "_anchor": "features4-4f",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -2530,7 +2536,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2575,7 +2581,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -3418,7 +3424,8 @@
             "SPAN": {
               "font-size": "32px",
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#494259"
             },
             ".mbr-section-title SPAN": {
               "color": "#494259"
@@ -3678,7 +3685,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-42",
+          "_anchor": "features4-4g",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -3715,7 +3722,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3760,7 +3767,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -4592,7 +4599,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-3y",
+          "_anchor": "features4-4b",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -4629,7 +4636,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -4674,7 +4681,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -5000,7 +5007,7 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-46",
+          "_anchor": "features4-4h",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -5037,7 +5044,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -5082,7 +5089,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
