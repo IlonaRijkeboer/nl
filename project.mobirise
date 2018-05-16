@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -79,18 +79,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#494259"
+              "color": "#303134"
             },
             ".link, .dropdown-item": {
-              "color": "#494259",
-              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
-              "font-family": "'Anaheim', sans-serif"
+              "color": "#303134",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "2.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.328rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -105,7 +105,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#494259",
+              "color": "#303134",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -125,7 +125,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#494259"
+              "background-color": "#303134"
             }
           },
           "_tags": [
@@ -173,7 +173,9 @@
               "text-align": "center"
             },
             "SPAN": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-section-title": {
               "text-align": "center"
@@ -182,6 +184,10 @@
               "font-family": "'Anaheim', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
               "color": "#494259"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [
@@ -3308,7 +3314,16 @@
             ".mbr-section-title": {
               "color": "#000000",
               "text-align": "left",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "17px",
+              "text-align": "left",
+              "color": "#303134"
             }
           },
           "_tags": [
@@ -3334,7 +3349,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Hi, I'm Ilona. I'm making things. The past three years I've been doing this in Ghent, Belgium, at LUCA School of Arts and in Edinburgh, Scotland, at ECA. There are pictures of my work on this website, but there is much more. Interested? Contact me. You can find a contact form if you click on the button CONTACT above.&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Hi, I'm Ilona. </span><br><span style=\"font-weight: normal;\">I'm making things. </span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">The past three years I've been doing this in Ghent, Belgium, at LUCA School of Arts and in Edinburgh, Scotland, at ECA. </span><br><span style=\"font-weight: normal;\">There are pictures of my work on this website, but there is much more. </span><br><span style=\"font-weight: normal;\">Interested? </span><br><span style=\"font-weight: normal;\">Contact me. </span><br><span style=\"font-weight: normal;\">You can find a contact form if you click on the button CONTACT above.&nbsp;</span>",
           "caption": ""
         },
         {
@@ -3344,7 +3359,10 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "19px"
+              "font-size": "14px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#303134"
             }
           },
           "_anchor": "social-buttons1-e",
@@ -3365,7 +3383,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share this page!"
+          "text": "SHARE THIS PAGE"
         },
         {
           "_styles": {
@@ -3376,18 +3394,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#494259"
+              "color": "#303134"
             },
             ".link, .dropdown-item": {
-              "color": "#494259",
-              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
-              "font-family": "'Anaheim', sans-serif"
+              "color": "#303134",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "2.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.328rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3402,7 +3420,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#494259",
+              "color": "#303134",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3422,7 +3440,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#494259"
+              "background-color": "#303134"
             }
           },
           "_tags": [
@@ -3502,12 +3520,29 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#28324e"
+              "color": "#303134"
+            },
+            "SMALL": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#303134"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "form1-c",
           "_params": {
-            "labelsColor": "#28324e",
+            "labelsColor": "#303134",
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -3521,7 +3556,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT ME",
+          "title": "<span style=\"font-weight: normal;\">CONTACT</span> <span style=\"font-weight: normal;\">ME</span>",
           "subtitle": "Questions, critics, suggestions, stories: feel free to share!",
           "form": {
             "action": "ilonarijkeboer.art@gmail.com",
@@ -3550,7 +3585,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
         },
         {
           "_tags": [
@@ -3592,18 +3627,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#494259"
+              "color": "#303134"
             },
             ".link, .dropdown-item": {
-              "color": "#494259",
-              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
-              "font-family": "'Anaheim', sans-serif"
+              "color": "#303134",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "2.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.328rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3618,7 +3653,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#494259",
+              "color": "#303134",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3638,7 +3673,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#494259"
+              "background-color": "#303134"
             }
           },
           "_tags": [
@@ -4052,18 +4087,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#494259"
+              "color": "#303134"
             },
             ".link, .dropdown-item": {
-              "color": "#494259",
-              "googleLink": "https://fonts.googleapis.com/css?family=Anaheim:400",
-              "font-family": "'Anaheim', sans-serif"
+              "color": "#303134",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "2.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.328rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4078,7 +4113,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#494259",
+              "color": "#303134",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4098,7 +4133,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#494259"
+              "background-color": "#303134"
             }
           },
           "_tags": [
@@ -4146,10 +4181,16 @@
               "text-align": "center"
             },
             "SPAN": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".mbr-section-title SPAN": {
               "color": "#494259"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [

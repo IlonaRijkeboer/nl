@@ -1,7 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Anaheim:400);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Anaheim:400);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
 
 
 
@@ -423,19 +427,19 @@ h6,
   color: #ffffff;
 }
 #menu-1k .navbar-toggler {
-  color: #494259;
+  color: #303134;
 }
 #menu-1k .link,
 #menu-1k .dropdown-item {
-  color: #494259;
-  font-family: 'Anaheim', sans-serif;
+  color: #303134;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-1k .link {
-  font-size: 2.15rem;
+  font-size: 0.85rem;
 }
 #menu-1k .dropdown-item,
 #menu-1k .nav-dropdown-sm .link {
-  font-size: 2.328rem;
+  font-size: 0.921rem;
 }
 #menu-1k .link:hover,
 #menu-1k .dropdown-item:hover,
@@ -460,7 +464,7 @@ h6,
   background: #000000;
 }
 #menu-1k .bg-color.transparent .link {
-  color: #494259;
+  color: #303134;
   transition: none;
 }
 #menu-1k .bg-color.transparent.opened .link {
@@ -482,7 +486,7 @@ h6,
 }
 #menu-1k .close-icon::before,
 #menu-1k .close-icon::after {
-  background-color: #494259;
+  background-color: #303134;
 }
 #header3-1l .mbr-section-title,
 #header3-1l .mbr-section-subtitle {
@@ -490,6 +494,7 @@ h6,
 }
 #header3-1l SPAN {
   font-size: 32px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #header3-1l .mbr-section-title {
   text-align: center;
@@ -497,6 +502,9 @@ h6,
 #header3-1l .mbr-section-title SPAN {
   font-family: 'Anaheim', sans-serif;
   color: #494259;
+}
+#header3-1l SMALL {
+  font-family: 'Lato', sans-serif;
 }
 
 #header3-3w .mbr-section-title,
@@ -1199,6 +1207,9 @@ h6,
   color: #475577;
 }
 
+
+
+
 #footer1-3 P {
   color: #475577;
 }
@@ -1216,9 +1227,18 @@ h6,
   color: #000000;
   text-align: left;
   font-size: 25px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#content5-b .mbr-section-title SPAN {
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  text-align: left;
+  color: #303134;
 }
 #social-buttons1-e .mbr-section-title {
-  font-size: 19px;
+  font-size: 14px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #303134;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -1227,19 +1247,19 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #494259;
+  color: #303134;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #494259;
-  font-family: 'Anaheim', sans-serif;
+  color: #303134;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-0 .link {
-  font-size: 2.15rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 2.328rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -1264,7 +1284,7 @@ h6,
   background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #494259;
+  color: #303134;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -1286,14 +1306,31 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #494259;
+  background-color: #303134;
 }
+
+
+
 
 #footer1-5 P {
   color: #475577;
 }
 #form1-c .form-control-label {
-  color: #28324e;
+  color: #303134;
+}
+#form1-c SMALL {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #303134;
+}
+#form1-c .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#form1-c .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#form1-c .btn {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 14px;
 }
 #social-buttons1-f .mbr-section-title {
   text-align: center;
@@ -1306,19 +1343,19 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #494259;
+  color: #303134;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #494259;
-  font-family: 'Anaheim', sans-serif;
+  color: #303134;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-0 .link {
-  font-size: 2.15rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 2.328rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -1343,7 +1380,7 @@ h6,
   background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #494259;
+  color: #303134;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -1365,7 +1402,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #494259;
+  background-color: #303134;
 }
 
 
@@ -1461,6 +1498,8 @@ h6,
   color: #475577;
 }
 
+
+
 #footer1-28 P {
   color: #475577;
 }
@@ -1471,19 +1510,19 @@ h6,
   color: #ffffff;
 }
 #menu-29 .navbar-toggler {
-  color: #494259;
+  color: #303134;
 }
 #menu-29 .link,
 #menu-29 .dropdown-item {
-  color: #494259;
-  font-family: 'Anaheim', sans-serif;
+  color: #303134;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-29 .link {
-  font-size: 2.15rem;
+  font-size: 0.85rem;
 }
 #menu-29 .dropdown-item,
 #menu-29 .nav-dropdown-sm .link {
-  font-size: 2.328rem;
+  font-size: 0.921rem;
 }
 #menu-29 .link:hover,
 #menu-29 .dropdown-item:hover,
@@ -1508,7 +1547,7 @@ h6,
   background: #000000;
 }
 #menu-29 .bg-color.transparent .link {
-  color: #494259;
+  color: #303134;
   transition: none;
 }
 #menu-29 .bg-color.transparent.opened .link {
@@ -1530,7 +1569,7 @@ h6,
 }
 #menu-29 .close-icon::before,
 #menu-29 .close-icon::after {
-  background-color: #494259;
+  background-color: #303134;
 }
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
@@ -1538,9 +1577,13 @@ h6,
 }
 #header3-2a SPAN {
   font-size: 32px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #header3-2a .mbr-section-title SPAN {
   color: #494259;
+}
+#header3-2a SMALL {
+  font-family: 'Lato', sans-serif;
 }
 
 
