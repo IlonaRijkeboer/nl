@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "drawings2018.html",
+    "currentPage": "inbetween2017.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 147,
+    "uniqCompNum": 155,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/niueww2.jpg",
     "noImageResize": "true",
@@ -911,7 +911,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -956,7 +956,7 @@
           },
           "title4": "INBETWEEN",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / 2018",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -990,38 +990,13 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "20px",
-              "text-align": "center",
-              "color": "#494259"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-37",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "2017<br><a href=\"Drawings2017.html#gallery2-2w\" class=\"text-primary\">Figure</a> / <a href=\"DrawingObjects2017.html\" class=\"text-primary\">Object</a>",
-          "meta": ""
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 4,
             "images": [
               {
@@ -1295,14 +1270,14 @@
               "color": "#303134",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "17px"
+              "font-size": "16px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-3i",
+          "_anchor": "features4-43",
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "4",
@@ -1339,7 +1314,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2896,7 +2871,7 @@
     },
     "about.html": {
       "settings": {
-        "order": 17,
+        "order": 18,
         "title": "about - ilona rijkeboer",
         "meta_descr": "ilona rijkeboer info\nall rights reserved ©2017 – Ilona Rijkeboer"
       },
@@ -3109,9 +3084,9 @@
     },
     "contact.html": {
       "settings": {
-        "order": 18,
+        "order": 19,
         "meta_descr": "contact form",
-        "title": "contact - ilona rijkeboer"
+        "title": "Inbetween 2017 - ilona rijkeboer"
       },
       "components": [
         {
@@ -3313,7 +3288,7 @@
       "settings": {
         "title": "cookie policy - ilona rijkeboer",
         "meta_descr": "cookie policy",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3477,7 +3452,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3951,47 +3926,7 @@
             "paddingBottom": 4,
             "images": [
               {
-                "alt": "",
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-7-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-7.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-10-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-10.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-8-800x547.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-8.jpg",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -4003,51 +3938,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/website-9-800x542.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-9.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-15-800x610.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-15.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-16-800x1053.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-17-800x634.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-18-800x616.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-18.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "alt": "",
@@ -4069,7 +3960,38 @@
                 "thumb": "@PROJECT_PATH@/assets/images/website-20-800x1110.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-20.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/website-15-800x610.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-15.jpg",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-18-800x616.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-17.jpg",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-16-800x1053.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-16.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -4707,7 +4629,7 @@
           },
           "title1": "DRAWINGS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"drawings2016.html\" class=\"text-black\">2016</a> / <a href=\"Drawings2017.html\" class=\"text-black\">2017</a>",
+          "caption1": "<a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -5048,6 +4970,361 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+        }
+      ]
+    },
+    "Inbetween2018.html": {
+      "settings": {
+        "meta_descr": "Things 2018 pictures\nall rights reserved ©2018 – Ilona Rijkeboer",
+        "title": "Inbetween 2018 - ilona rijkeboer",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#303134",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-46",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "DRAWINGS",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>/ <a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title2": "PAINTINGS",
+          "subtitle2": "One of Bootstrap 4'sg points",
+          "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title3": "SCULPTURES",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "INBETWEEN",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#303134"
+            },
+            ".link, .dropdown-item": {
+              "color": "#303134",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#303134",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#494259!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#303134"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-47",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#303134",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "footer1-48",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0333-2000x1329-48.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "alt": "",
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-7-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-10-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-49",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "14px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#303134"
+            }
+          },
+          "_anchor": "social-buttons1-4a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE"
         }
       ]
     }
