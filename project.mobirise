@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "inbetween2017.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -1861,10 +1861,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-800x766.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "alt": "",
@@ -1872,9 +1872,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-1.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -1882,9 +1883,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-2-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-2.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -1892,9 +1894,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-3-800x507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-3.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -1902,9 +1905,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-4-800x827.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-4.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -1912,9 +1916,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-5-800x549.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-5.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "alt": "",
@@ -4373,24 +4378,36 @@
             "images": [
               {
                 "alt": "",
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-7-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-7.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
               {
                 "alt": "",
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-10-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -4398,9 +4415,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-8-800x547.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-8.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
@@ -4408,19 +4426,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "alt": "",
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-9-800x542.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-9.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "alt": "",
