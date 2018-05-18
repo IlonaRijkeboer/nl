@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "drawings2018.html",
+    "currentPage": "Inbetween2018.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -3635,7 +3635,7 @@
     "inbetween2017.html": {
       "settings": {
         "meta_descr": "Things 2017 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
-        "title": "Inbetween - ilona rijkeboer",
+        "title": "Inbetween 2017 - ilona rijkeboer",
         "order": 16
       },
       "components": [
@@ -5315,10 +5315,22 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-145217-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-145217.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
+                "alt": "",
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
