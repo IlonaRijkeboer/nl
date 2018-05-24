@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Sculptures2017.html",
+    "currentPage": "index.html",
     "name": "Ilona Rijkeboer",
     "theme": {
       "name": "mobirise3",
@@ -4707,25 +4707,27 @@
             "images": [
               {
                 "alt": "",
-                "tags": "Awesome",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2826-bewerkt-800x611.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc2826-bewerkt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-49-800x621.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-49.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
                 "alt": "",
-                "tags": "Responsive",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2832-bewerkt-800x822.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc2832-bewerkt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-9838-800x884.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-9838.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "alt": "",
@@ -4744,8 +4746,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2835-bewerkt-800x575.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc2835-bewerkt.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2826-bewerkt-800x611.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc2826-bewerkt.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4757,6 +4759,28 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc2836-bewerkt-800x580.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc2836-bewerkt.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2832-bewerkt-800x822.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc2832-bewerkt.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2835-bewerkt-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc2835-bewerkt.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4778,8 +4802,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-45-800x560.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-44-800x591.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-44.jpg",
                 "caption": "Type caption here",
                 "title": "",
                 "active": false
@@ -4790,8 +4814,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-44-800x591.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-45-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-45.jpg",
                 "caption": "Type caption here",
                 "title": "",
                 "active": false
@@ -4822,17 +4846,6 @@
               },
               {
                 "alt": "",
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2834-bewerkt-800x621.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc2834-bewerkt.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4841,7 +4854,7 @@
                 "image": "@PROJECT_PATH@/assets/images/website-48.jpg",
                 "caption": "Type caption here",
                 "title": "",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -5289,6 +5302,29 @@
             "images": [
               {
                 "alt": "",
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-50-800x1175.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-50.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
+                "alt": "",
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -5318,19 +5354,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/website-145217-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-145217.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
-              },
-              {
-                "alt": "",
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-6.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
