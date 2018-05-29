@@ -33,7 +33,7 @@
     "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/niueww2.jpg",
     "noImageResize": "true",
-    "cookiesAlert": "Surprise! I use cookies. For details, click on: <a href='cookiepolicy.html'>cookie policy</a>.",
+    "cookiesAlert": "Verassing! Ik maak gebruik van cookies. Voor meer informatie, klik hier: <a href='cookiebeleid.html'>cookiebeleid</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-88021608-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-88021608-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
