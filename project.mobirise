@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "drawings2018.html",
-    "name": "Ilona Rijkeboer",
+    "currentPage": "index.html",
+    "name": "Ilona Rijkeboer-NL",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,11 +24,12 @@
         "#dbe1e6",
         "#453f3f",
         "#494259",
-        "#232323"
+        "#232323",
+        "#f2f2f2"
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 162,
+    "uniqCompNum": 167,
     "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/niueww2.jpg",
     "noImageResize": "true",
@@ -45,7 +46,7 @@
       "settings": {
         "title": "copyright status - ilona rijkeboer",
         "meta_descr": "Copyright status",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -68,7 +69,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_styles": {
@@ -165,7 +166,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -208,7 +209,7 @@
             "bgColor": "#fff"
           },
           "title": "<span style=\"font-weight: normal;\">Copyright status</span>",
-          "meta": "Copyright © 2017 by Ilona Rijkeboer<br><br>All rights reserved. No images on this website may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the publisher, except in the case of noncommercial or educational uses permitted by copyright law. For permission requests, please contact the artist through the contact form on this website."
+          "meta": "Copyright © 2017 - Ilona Rijkeboer<br><br>Alle rechten voorbehouden. Afbeeldingen die op deze website staan mogen niet worden verspreid of gereproduceerd in welke vorm of op welke manier dan ook zonder voorafgaande schriftelijke toestemming van de kunstenaar, behalve in het geval van niet-commercieel of educatief gebruik toegestaan door de auteursrechtwetgeving. Neem voor toestemmingsverzoeken contact op met de kunstenaar via het contactformulier op deze website."
         }
       ]
     },
@@ -481,7 +482,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -506,7 +507,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -824,7 +825,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -849,14 +850,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "Drawings2017.html": {
       "settings": {
-        "title": "drawings 2017 - ilona rijkeboer",
-        "meta_descr": "drawings 2017 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
+        "title": "tekeningen 2017 - ilona rijkeboer",
+        "meta_descr": "tekeningen 2017 pictures\nalle rechten voorbehouden ©2017 – Ilona Rijkeboer",
         "order": 9
       },
       "components": [
@@ -915,7 +916,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -930,7 +931,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -945,7 +946,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -960,7 +961,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1257,7 +1258,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1290,7 +1291,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_tags": [
@@ -1315,14 +1316,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "Sculptures2017.html": {
       "settings": {
-        "title": "sculptures 2017 - ilona rijkeboer",
-        "meta_descr": "sculptures 2017 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
+        "title": "sculpturen 2017 - ilona rijkeboer",
+        "meta_descr": "sculpturen 2017 afbeeldingen\nalle rechten voorbehouden ©2017 – Ilona Rijkeboer",
         "order": 12
       },
       "components": [
@@ -1381,7 +1382,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1396,7 +1397,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1411,7 +1412,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1426,7 +1427,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1603,7 +1604,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_styles": {
@@ -1700,7 +1701,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1725,14 +1726,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "sculptures2016.html": {
       "settings": {
-        "title": "sculptures 2016 - ilona rijkeboer",
-        "meta_descr": "sculptures 2016 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
+        "title": "sculpturen 2016 - ilona rijkeboer",
+        "meta_descr": "sculpturen 2016 afbeeldingen\nalle rechten voorbehouden ©2017 – Ilona Rijkeboer",
         "order": 13
       },
       "components": [
@@ -1791,7 +1792,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1806,7 +1807,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1821,7 +1822,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1836,7 +1837,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1972,7 +1973,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_styles": {
@@ -2069,7 +2070,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2094,14 +2095,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "Paintings2017.html": {
       "settings": {
-        "title": "paintings 2017 - ilona rijkeboer",
-        "meta_descr": "paintings 2017 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
+        "title": "schilderijen 2017 - ilona rijkeboer",
+        "meta_descr": "schilderijen 2017 afbeeldingen\nalle rechten voorbehouden ©2017 – Ilona Rijkeboer",
         "order": 14
       },
       "components": [
@@ -2160,7 +2161,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2175,7 +2176,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2190,7 +2191,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2205,7 +2206,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2341,7 +2342,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_styles": {
@@ -2438,7 +2439,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2463,14 +2464,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "paintings2016.html": {
       "settings": {
-        "title": "paintings 2016 - ilona rijkeboer",
-        "meta_descr": "paintings 2016 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
+        "title": "schilderijen 2016 - ilona rijkeboer",
+        "meta_descr": "schilderijen 2016 afbeeldingen\nalle rechten voorbehouden ©2017 – Ilona Rijkeboer",
         "order": 15
       },
       "components": [
@@ -2529,7 +2530,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2544,7 +2545,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2559,7 +2560,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2574,7 +2575,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2759,7 +2760,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_styles": {
@@ -2856,7 +2857,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2881,7 +2882,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -2912,7 +2913,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_styles": {
@@ -2963,7 +2964,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Hi, I'm Ilona. </span><br><span style=\"font-weight: normal;\">I'm making things. </span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">The past three years I've been doing this in Ghent, Belgium, at LUCA School of Arts and in Edinburgh, Scotland, at ECA. </span><br><span style=\"font-weight: normal;\">There are pictures of my work on this website, but there is much more. </span><br><span style=\"font-weight: normal;\">Interested? </span><br><span style=\"font-weight: normal;\">Contact me. </span><br><span style=\"font-weight: normal;\">You can find a contact form if you click on the button CONTACT above.&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Hoi, ik ben Ilona.&nbsp;</span><br><span style=\"font-weight: normal;\">Ik maak dingen.</span><span style=\"font-weight: normal;\"><br>De afgelopen drie jaar heb ik dit gedaan aan het Sint-Lucas in Gent, België en aan ECA in Edinburgh, Schotland.</span><br><span style=\"font-weight: normal;\">Er staan foto's van mijn werk op deze site, maar er is nog veel meer.<br></span><span style=\"font-weight: normal;\">Interesse?</span><br><span style=\"font-weight: normal;\">Laat me het weten.</span><br><span style=\"font-weight: normal;\">Je kunt contact met me opnemen via de knop 'contact' rechtsbovenaan.</span>",
           "caption": ""
         },
         {
@@ -2997,7 +2998,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         },
         {
           "_styles": {
@@ -3094,7 +3095,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         }
       ]
     },
@@ -3102,7 +3103,7 @@
       "settings": {
         "order": 19,
         "meta_descr": "contact form",
-        "title": "Inbetween 2017 - ilona rijkeboer"
+        "title": "Contact - ilona rijkeboer"
       },
       "components": [
         {
@@ -3125,7 +3126,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_tags": [
@@ -3170,23 +3171,23 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT</span> <span style=\"font-weight: normal;\">ME</span>",
-          "subtitle": "Questions, critics, suggestions, stories: feel free to share!",
+          "title": "<span style=\"font-weight: normal;\">CONTACT</span>",
+          "subtitle": "Vragen, kritiek, suggesties, verhalen: deel het met me!",
           "form": {
             "action": "ilonarijkeboer.art@gmail.com",
             "alerts": {
-              "success": "Thank you for your interest, I'll try to reply as soon as possible."
+              "success": "Bedankt voor je interesse. Ik antwoord zo snel mogelijk."
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Naam*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "E-mail*"
               },
               "phone": {
                 "title": "Phone",
@@ -3195,11 +3196,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Bericht"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">VERSTUUR</a>"
         },
         {
           "_styles": {
@@ -3296,14 +3297,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         }
       ]
     },
     "cookiepolicy.html": {
       "settings": {
-        "title": "cookie policy - ilona rijkeboer",
-        "meta_descr": "cookie policy",
+        "title": "cookie beleid - ilona rijkeboer",
+        "meta_descr": "cookie beleid",
         "order": 3
       },
       "components": [
@@ -3327,7 +3328,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_styles": {
@@ -3424,7 +3425,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -3456,8 +3457,8 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">Cookie policy</span>",
-          "meta": "Cookies are unique identifiers, set on the device you use to browse this website. I use cookies to optimise website features for your device and to enable the contact form submission in case you would like to contact me. Besides that, they are used for basic Google analytics features and to link you to the social media websites listed on the bottom of every page. If you want to delete these cookies after leaving my website, this can easily be done using the option 'Clear browsing data' in your browser settings."
+          "title": "<span style=\"font-weight: normal;\">Cookie beleid</span>",
+          "meta": "Cookies zijn kleine tekstbestandjes die worden ingesteld op het apparaat dat u gebruikt om op deze website te kijken. Ik gebruik cookies om de websitefuncties voor uw apparaat te optimaliseren en om het functioneren van het contactformulier mogelijk te maken, voor het geval u contact met mij wilt opnemen. Daarnaast worden ze gebruikt om u door te sturen naar de social media sites die onderaan elke pagina worden vermeld en voor basisfuncties van Google Analytics. Als u deze cookies wilt verwijderen na het verlaten van mijn website, kunt u dit eenvoudig doen met de optie 'Browsegegevens wissen' in uw browserinstellingen."
         }
       ]
     },
@@ -3465,7 +3466,7 @@
       "settings": {
         "main": true,
         "title": "home - ilona rijkeboer",
-        "meta_descr": "home page\n",
+        "meta_descr": "home pagina\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3533,7 +3534,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_styles": {
@@ -3630,7 +3631,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -3670,8 +3671,8 @@
     },
     "inbetween2017.html": {
       "settings": {
-        "meta_descr": "Things 2017 pictures\nall rights reserved ©2017 – Ilona Rijkeboer",
-        "title": "Inbetween 2017 - ilona rijkeboer",
+        "meta_descr": "Dingen 2017 afbeeldingen\nAlle rechten voorbehouden ©2017 – Ilona Rijkeboer",
+        "title": "Ertussenin 2017 - ilona rijkeboer",
         "order": 16
       },
       "components": [
@@ -3730,7 +3731,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3745,7 +3746,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3760,7 +3761,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3775,7 +3776,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3905,7 +3906,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -3930,7 +3931,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_inherit": "gallery1",
@@ -4054,7 +4055,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         }
       ]
     },
@@ -4160,7 +4161,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -4185,7 +4186,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -4291,7 +4292,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -4316,7 +4317,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -4422,7 +4423,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -4447,7 +4448,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -4553,7 +4554,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -4578,14 +4579,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
     "drawings2018.html": {
       "settings": {
-        "title": "drawings 2018 - ilona rijkeboer",
-        "meta_descr": "drawings 2018 pictures\nall rights reserved ©2018 – Ilona Rijkeboer",
+        "title": "tekeningen 2018 - ilona rijkeboer",
+        "meta_descr": "tekeningen 2018 pictures\nalle rechten voorbehouden ©2018 – Ilona Rijkeboer",
         "order": 6
       },
       "components": [
@@ -4644,7 +4645,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4659,7 +4660,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4674,7 +4675,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4689,7 +4690,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5022,7 +5023,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -5080,7 +5081,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         }
       ]
     },
@@ -5146,7 +5147,7 @@
               "family": "et-line"
             }
           },
-          "title1": "DRAWINGS",
+          "title1": "TEKENINGEN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p><a href=\"Drawings2017.html\" class=\"text-black\">2017</a>&nbsp;/&nbsp;<a href=\"drawings2018.html\" class=\"text-black\">2018</a></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5161,7 +5162,7 @@
               "family": "et-line"
             }
           },
-          "title2": "PAINTINGS",
+          "title2": "SCHILDERIJEN",
           "subtitle2": "One of Bootstrap 4'sg points",
           "caption2": "<a href=\"paintings2016.html\" class=\"text-black\">2016</a> / <a href=\"Paintings2017.html\" class=\"text-black\">2017</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5176,7 +5177,7 @@
               "family": "et-line"
             }
           },
-          "title3": "SCULPTURES",
+          "title3": "SCULPTUREN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<a href=\"sculptures2016.html\" class=\"text-black\">2016</a> / <a href=\"Sculptures2017.html\" class=\"text-black\">2017</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5191,7 +5192,7 @@
               "family": "et-line"
             }
           },
-          "title4": "INBETWEEN",
+          "title4": "ERTUSSENIN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<a href=\"inbetween2017.html\" class=\"text-black\">2017</a> / <a href=\"Inbetween2018.html\" class=\"text-black\">2018</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5321,7 +5322,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WORKS&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp;&nbsp;&nbsp;&nbsp;ABOUT ME&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">EN/NL&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sculptures2017.html\" aria-expanded=\"false\">WERK&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><p>&nbsp; &nbsp; OVER MIJ&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -5346,7 +5347,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 by <br>Ilona Rijkeboer."
+          "text": "Copyright (c) 2017&nbsp;<br>Ilona Rijkeboer."
         },
         {
           "_inherit": "gallery1",
@@ -5471,7 +5472,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE"
+          "text": "DEEL DEZE PAGINA"
         }
       ]
     }
