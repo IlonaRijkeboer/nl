@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schilderijen2017.html",
     "name": "Ilona Rijkeboer-NL",
     "theme": {
       "name": "mobirise3",
@@ -1238,7 +1238,7 @@
               "text-align": "center",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#efefef"
+              "color": "#232323"
             }
           },
           "_anchor": "social-buttons1-1g",
@@ -1246,7 +1246,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20171014-192212-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ilonarijkeboerhd2018-newwork2-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -3389,18 +3389,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/website-30-800x603.jpg",
                 "image": "@PROJECT_PATH@/assets/images/website-30.jpg",
-                "caption": "Type caption here",
-                "title": "",
-                "active": false
-              },
-              {
-                "alt": "",
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-29-800x637.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-29.jpg",
                 "caption": "Type caption here",
                 "title": "",
                 "active": true
